@@ -39,6 +39,7 @@ RTL viewers to get RTL diagram output
 Developed by:Gokul Prasad H RegisterNumber:212224050011
 
 */
+```
 module EXP10(clk, sin, q);
 input clk;
 input sin;
@@ -52,6 +53,7 @@ q[2] <= q[1];
 q[3] <= q[2];
 end
 endmodule
+```
 
 **RTL LOGIC FOR SISO Shift Register**
 ![Screenshot 2025-04-29 212024](https://github.com/user-attachments/assets/8ee77a15-e697-4e82-8650-27d17c64323a)
